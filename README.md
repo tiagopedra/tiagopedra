@@ -25,9 +25,6 @@
 <a href="#contato">
   <img src="https://img.shields.io/badge/Contato-6A1B9A?style=for-the-badge" alt="Contato"/>
 </a>
-<a href="https://github.com/tiagopedra">
-  <img src="https://img.shields.io/badge/GitHub-37474F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 </div>
 
@@ -76,15 +73,15 @@ Atualmente sou doutorando em Gestão da Informação pela Universidade Federal d
 <table>
   <tr>
     <td width="250px"><a href="https://github.com/tiagopedra/Projeto-4_sistemas-de-desenvolvimento-em-Python"><img width="200px" src="https://storage.googleapis.com/star-lab/blog/OGs/python.png" alt="Projeto 4"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/watch?v=2gwMXGV94t0"><b>Projeto-4_sistemas-de-desenvolvimento-em-Python</b></a><br/>23/06/2026</td>
+    <td width="800px"><a href="https://github.com/tiagopedra/Projeto-4_sistemas-de-desenvolvimento-em-Python"><b>Projeto-4_sistemas-de-desenvolvimento-em-Python</b></a><br/>23/06/2026</td>
   </tr>
   <tr>
     <td width="250px"><a href="https://github.com/tiagopedra/POO_-Sistemas-de-desenvolvimento-em-c-"><img width="200px" src="https://www.rocketseat.com.br/blog/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstar-lab%2Fblog%2FOGs%2FCSharp.png&w=1200&q=75" alt="Enem"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/shorts/B3KUBbOTJ10"><b>POO_-Sistemas-de-desenvolvimento-em-c-</b></a><br/>10/06/2026</td>
+    <td width="800px"><a href="https://github.com/tiagopedra/POO_-Sistemas-de-desenvolvimento-em-c-"><b>POO_-Sistemas-de-desenvolvimento-em-c-</b></a><br/>10/06/2026</td>
   </tr>
   <tr>
     <td width="250px"><a href="https://github.com/tiagopedra/api_bibliotecacompleta"><img width="200px" src="https://www.rocketseat.com.br/blog/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fstar-lab%2Fblog%2FOGs%2Fbackend.png&w=1200&q=75" alt="Envelhecer com Tecnologia"></a></td>
-    <td width="800px"><a href="https://www.youtube.com/watch?v=QRDsbAHph_w"><b>api_bibliotecacompleta</b></a><br/>26/10/2025</td>
+    <td width="800px"><a href="https://github.com/tiagopedra/api_bibliotecacompleta"><b>api_bibliotecacompleta</b></a><br/>26/10/2025</td>
   </tr>
 </table>
 
